@@ -1,1 +1,6 @@
-Test 1 -> 
+Tests -> https://archive.ics.uci.edu/ml/datasets.php?format=&task=cla&att=num&area=&numAtt=less10&numIns=100to1000&type=mvar&sort=instUp&view=table
+Test 1 -> https://archive.ics.uci.edu/ml/datasets/Vertebral+Column
+Test 2 -> https://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis
+Test 3 -> https://archive.ics.uci.edu/ml/datasets/Alcohol+QCM+Sensor+Dataset
+Test 4 -> https://archive.ics.uci.edu/ml/datasets/ICMLA+2014+Accepted+Papers+Data+Set
+Test 5 -> https://archive.ics.uci.edu/ml/datasets/StoneFlakes

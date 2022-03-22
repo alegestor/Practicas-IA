@@ -4,3 +4,5 @@ Test 2 -> https://archive.ics.uci.edu/ml/datasets/Mechanical+Analysis
 Test 3 -> https://archive.ics.uci.edu/ml/datasets/Alcohol+QCM+Sensor+Dataset
 Test 4 -> https://archive.ics.uci.edu/ml/datasets/ICMLA+2014+Accepted+Papers+Data+Set
 Test 5 -> https://archive.ics.uci.edu/ml/datasets/StoneFlakes
+Test 6 -> https://archive.ics.uci.edu/ml/datasets/Daphnet+Freezing+of+Gait
+Test 7 -> https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center

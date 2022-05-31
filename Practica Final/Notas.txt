@@ -1,0 +1,17 @@
+Idea 1:
+Positions are objects
+Genes indicates where to go -> By types {1,2,3}
+							-> By unique ID for each knapsack {1,2,3,...,15}
+							
+Idea 2:
+Positions are knapsacks
+Genes indicates which 
+
+Idea 3:
+"Permutation" objects and separators
+Decode: o1 o5 # o2 o3 # o7 o4
+
+Idea 4:
+Using 0 or 1 to indicate if the object is in the bag
+
+Whatever idea you pick, you need to add penalties to adjust

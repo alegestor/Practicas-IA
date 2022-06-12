@@ -15,3 +15,10 @@ Idea 4:
 Using 0 or 1 to indicate if the object is in the bag
 
 Whatever idea you pick, you need to add penalties to adjust
+
+
+-----------------------------------------------------------
+
+
+Analisis de datos del multiKnapsack
+knapsack,fitness,knapsack,fitness,knapsack,fitness,knapsack,fitness,total_fitness

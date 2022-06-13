@@ -21,4 +21,4 @@ Whatever idea you pick, you need to add penalties to adjust
 
 
 Analisis de datos del multiKnapsack
-knapsack,fitness,knapsack,fitness,knapsack,fitness,knapsack,fitness,total_fitness
+remaining_obj,ac_weight,knapsack,ac_weight,knapsack,ac_weight,knapsack,ac_weight,total_fitness
